@@ -1,8 +1,8 @@
 👋 Hi, I’m Stephanie
 
-🏫 I graduated with a degree in Business Administration, but found a passion in coding. I have experience working as a web developer, and learned how to code in Ruby on Rails, HTML, CSS, and Javascript through the work experience.
+🏫 I graduated with a degree in Business Administration, but found a passion for coding. I have experience working as a web developer at a start up for non-profits, and learned how to code in Ruby on Rails, HTML, CSS, and Javascript through the work experience.
 
-🌱 I’m currently refining and advance my knowledge in full-stack web development.
+🌱 I’m currently refining and advancing my knowledge in full-stack web development, practicing coding in React and TypeScript.
 
 
 📫 wytseng113@gmail.com
