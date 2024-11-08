@@ -2,7 +2,7 @@
 
 🏫 I graduated with a degree in Business Administration, but found a passion for coding. I have experience working as a web developer at a start up for non-profits, and learned how to code in Ruby on Rails, HTML, CSS, and Javascript through the work experience.
 
-🌱 I’m currently refining and advancing my knowledge in full-stack web development, practicing coding in React and TypeScript.
+🌱 I’m currently working as a full-stack software engineer at Lumindate Data.
 
 
 📫 wytseng113@gmail.com
